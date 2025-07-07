@@ -1,0 +1,40 @@
+{
+  "tables": [
+    {
+      "id": "1",
+      "number": 1,
+      "available": false
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "available": true
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "available": false
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "available": true
+    }
+  ],
+  "reservations": [
+    {
+      "id": "2456",
+      "date": "2025-07-26",
+      "time": "12:37",
+      "guests": "3",
+      "tableId": 1
+    },
+    {
+      "id": "b0cc",
+      "date": "2025-07-17",
+      "time": "09:41",
+      "guests": "6",
+      "tableId": "3"
+    }
+  ]
+}
